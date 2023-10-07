@@ -264,7 +264,7 @@ http://better-pes.vercel.app
 
 <br>
 
-==- What do my 4 years in CSE look like?
+==- [!badge variant="danger" text="Most Asked"] What do my 4 years in CSE look like?
 I'd say depends on your branch, but I can answer for CSE
 
 * 1st year is usually a great way to lay the foundation of a good GPA. The subjects are mostly easy and people tend to do well. There are lesser course deliverables as well as other responsibilities/activities/factors do not exist at this point. Whatever you get as your CGPA at this stage will roughly be the benchmark around with your GPAs will fluctuate in the future.
@@ -279,7 +279,7 @@ If you are looking at an 8 at the end of first year, you will probably end up be
 
 <br>
 
-==- How do I prepare for CS placements?
+==- [!badge variant="danger" text="Most Asked"] How do I prepare for CS placements?
 Firstly, you're barely in 2nd sem - now's not the time to be worrying about placements. Time doesn't fly that quickly either.
 
 Secondly, this is a long answer, but the summary is that it is different for different people. It's nice to read that you've started web dev and Android, but you shouldn't be doing these with the intention of getting placed. If you're doing that then you're really not going to make much progress. Instead, you should *find the field(s) that interest you the most and dive deeper into those*. This finding takes a lot of time - some people know it before they enter college (like me), while some take all the way up till 7th semester. There is no shame in either and you should know that it takes a lot of experimentation and getting your hands dirty to figure out ones interests.
